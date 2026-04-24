@@ -44,19 +44,19 @@ O projeto foi desenvolvido utilizando:
 
 ## ⚡ Como Rodar o Projeto
 
-# Clone o repositório
+## Clone o repositório
 git clone https://github.com/Maduhsamp/_Eventa_.git
 
-# Acesse a pasta
+## Acesse a pasta
 cd eventa
 
-# Instale as dependências
+## Instale as dependências
 composer install
 
-# Copie o arquivo de ambiente
+## Copie o arquivo de ambiente
 cp .env.example .env
 
-# Gere a chave da aplicação
+## Gere a chave da aplicação
 php artisan key:generate
 
 ## 🔧 Configure o banco de dados no .env:
@@ -65,10 +65,10 @@ DB_DATABASE=nome_do_banco
 DB_USERNAME=root
 DB_PASSWORD=
 
-# Rode as migrations
+## Rode as migrations
 php artisan migrate
 
-# Inicie o servidor
+## Inicie o servidor
 php artisan serve
 
 Acesse a URL gerada
