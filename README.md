@@ -91,3 +91,5 @@ Durante o desenvolvimento, trabalhei com:
 Este é um projeto de estudo, mas construído com atenção a detalhes e boas práticas utilizadas no mercado.
 
 “Transformando aprendizado em soluções reais.” 🚀
+
+## https://www.linkedin.com/in/maria-eduarda-sampietro-23379b267/
