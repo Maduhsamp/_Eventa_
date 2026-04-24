@@ -1,48 +1,48 @@
-🎯 Eventa — Event Management Platform
+ ## 🎯 Eventa — Event Management Platform
 
 Aplicação web desenvolvida com Laravel para gerenciamento de eventos, permitindo que usuários criem, visualizem e participem de eventos.
 
-💡 Projeto criado com foco em prática real e reforço de conhecimentos no ecossistema Laravel.
+ 💡 Projeto criado com foco em prática real e reforço de conhecimentos no ecossistema Laravel.
 
-📸 Preview
+ ## 📸 Preview
 <img width="1863" height="840" alt="image" src="https://github.com/user-attachments/assets/381c0b1c-0c0a-488c-a851-fdadf7a19ca8" />
 
-🧠 Objetivo do Projeto
+## 🧠 Objetivo do Projeto
 
 Este projeto foi desenvolvido com o objetivo de:
 
--Reforçar conhecimentos em Laravel
--Revisitar conceitos importantes de backend
--Aplicar boas práticas de desenvolvimento
--Simular um cenário real de aplicação web
+- Reforçar conhecimentos em Laravel
+- Revisitar conceitos importantes de backend
+- Aplicar boas práticas de desenvolvimento
+- Simular um cenário real de aplicação web
 
-⚙️ Funcionalidades
-✅ Cadastro e autenticação de usuários
-✅ Criação de eventos
-✅ Edição e exclusão de eventos
-✅ Participação em eventos
-✅ Listagem e busca de eventos
+## ⚙️ Funcionalidades
+- ✅ Cadastro e autenticação de usuários
+- ✅ Criação de eventos
+- ✅ Edição e exclusão de eventos
+- ✅ Participação em eventos
+- ✅ Listagem e busca de eventos
 
-🛠️ Tecnologias Utilizadas
--PHP
--Laravel
--MySQL
--Blade
--Bootstrap
+## 🛠️ Tecnologias Utilizadas
+- PHP
+- Laravel
+- MySQL
+- Blade
+- Bootstrap
 
-💻 Ambiente de Desenvolvimento
+## 💻 Ambiente de Desenvolvimento
 
 O projeto foi desenvolvido utilizando:
 
--XAMPP (Apache + MySQL)
--phpMyAdmin para gerenciamento do banco de dados
+- XAMPP (Apache + MySQL)
+- phpMyAdmin para gerenciamento do banco de dados
 
-🗄️ Banco de Dados
--Banco relacional com MySQL
--Estrutura gerenciada via Migrations do Laravel
--Relacionamentos utilizando Eloquent ORM
+## 🗄️ Banco de Dados
+- Banco relacional com MySQL
+- Estrutura gerenciada via Migrations do Laravel
+- Relacionamentos utilizando Eloquent ORM
 
-⚡ Como Rodar o Projeto
+## ⚡ Como Rodar o Projeto
 
 # Clone o repositório
 git clone https://github.com/Maduhsamp/_Eventa_.git
@@ -59,7 +59,7 @@ cp .env.example .env
 # Gere a chave da aplicação
 php artisan key:generate
 
-🔧 Configure o banco de dados no .env:
+## 🔧 Configure o banco de dados no .env:
 
 DB_DATABASE=nome_do_banco
 DB_USERNAME=root
@@ -73,20 +73,20 @@ php artisan serve
 
 Acesse a URL gerada
 
-📚 Sobre o Projeto
+## 📚 Sobre o Projeto
 
 Este projeto foi baseado em um curso gratuito de Laravel, porém com adaptações e melhorias próprias, com foco em aprofundamento prático e evolução técnica.
 
-🚀 Aprendizados
+## 🚀 Aprendizados
 
 Durante o desenvolvimento, trabalhei com:
 
--Estrutura MVC
--Eloquent ORM e relacionamentos
--Autenticação com Laravel
--Organização de código e boas práticas
+- Estrutura MVC
+- Eloquent ORM e relacionamentos
+- Autenticação com Laravel
+- Organização de código e boas práticas
 
-✨ Considerações
+## ✨ Considerações
 
 Este é um projeto de estudo, mas construído com atenção a detalhes e boas práticas utilizadas no mercado.
 
